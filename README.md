@@ -1,3 +1,3 @@
-# pratt-savi-800
+# pratt-savi-702
 
-Root website for Pratt SAVI 800.
+Root website for Pratt SAVI 702.

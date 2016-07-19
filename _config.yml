@@ -1,13 +1,13 @@
 # Site settings
-title: Pratt SAVI 800
+title: Pratt SAVI 702
 email:
 description: > # this means to ignore newlines until "baseurl:"
-  This website displays student projects from Pratt SAVI's SAVI-800,
-  Advanced Interactive Web Mapping
+  This website displays student projects from Pratt SAVI's SAVI-702,
+  Introduction to GIS with QGIS
 baseurl: /
-url: http://pratt-savi-800.github.io
+url: http://pratt-savi-702.github.io
 twitter_username: PrattSAVI
-github_username: pratt-savi-800
+github_username: pratt-savi-702
 
 # Build settings
 markdown: kramdown
